@@ -9,6 +9,8 @@ Journal citation with DOI *to be updated
 This repository is distributed under MIT license. The GEE scripts included herein build on other codes previously published by other authors. Please credit me or the previous code authors, as appropriate, for future use of the materials.
 
 # Datasets
+Datasets are available through Figshare:
+https://doi.org/10.6084/m9.figshare.26339239.v1 
 
 The following subfolders include annual digital elevation model (DEM) datafiles prepared for 2016 to 2019:
 - Waterline_DEM_Raw. EM products developed using the waterline method as described in the submitted manuscript (see manuscript Figure 4). The DEMs exclude submerged topography and high-elevation terrain above the high water datum.
