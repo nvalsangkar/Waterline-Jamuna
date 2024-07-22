@@ -36,7 +36,6 @@ Extraction of water masks from Sentinel-2 data using GEE in Colab (see manuscrip
 Processing of water masks into a waterline DEM with GlobalMapper scripting tools (see manuscript section 3.1 and Figure 4, step 5):
 [Waterline-Jamuna2017.gms](Waterline-Jamuna-2017.gms)
 
-Processing of water masks into a waterline DEM with GlobalMapper, using a manual version of the script linked above:
-[Supplementary GlobalMapper Workflow.pdf](Supplementary GlobalMapper Workflow.pdf)
+The GlobalMapper analysis can also be done manually using the Combine/Compare Terrain toolkit. An example workflow is included for illustration in Supplementary GlobalMapper Workflow.pdf)
 
 
