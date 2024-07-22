@@ -27,6 +27,8 @@ Metadata for all DEM products are as follows:
 - Projection: Transverse Mercator / Gulshan 303 (EPSG:9678)
 
 # Scripts
+Extraction of water masks from Sentinel-1 data (see manuscript section 3.1, step 2):
+[WaterlineJamuna_Sentinel1_WaterDelineation.ipynb](WaterlineJamuna_Sentinel1_WaterDelineation.ipynb)
 
-WaterlineJamuna_Sentinel1_WaterDelineation.ipynb uses Otsu thresholding to detect and export water masks from Sentinel-1 data (see manuscript section 3.1, step 2)
-WaterlineJamuna_Sentinel2_WaterDelineation.ipynb uses reflectance indices to detect and export water masks from Sentinel-2 data (see manuscript section 3.1, step 2)
+Extraction of water masks from Sentinel-2 data (see manuscript section 3.1, step 2):
+[WaterlineJamuna_Sentinel2_WaterDelineation.ipynb](WaterlineJamuna_Sentinel2_WaterDelineation.ipynb)
