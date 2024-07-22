@@ -27,8 +27,16 @@ Metadata for all DEM products are as follows:
 - Projection: Transverse Mercator / Gulshan 303 (EPSG:9678)
 
 # Scripts
-Extraction of water masks from Sentinel-1 data (see manuscript section 3.1, step 2):
+Extraction of water masks from Sentinel-1 data using GEE in Colab (see manuscript section 3.1, step 2):
 [WaterlineJamuna_Sentinel1_WaterDelineation.ipynb](WaterlineJamuna_Sentinel1_WaterDelineation.ipynb)
 
-Extraction of water masks from Sentinel-2 data (see manuscript section 3.1, step 2):
+Extraction of water masks from Sentinel-2 data using GEE in Colab (see manuscript section 3.1, step 2):
 [WaterlineJamuna_Sentinel2_WaterDelineation.ipynb](WaterlineJamuna_Sentinel2_WaterDelineation.ipynb)
+
+Processing of water masks into a waterline DEM with GlobalMapper scripting tools (see manuscript section 3.1 and Figure 4, step 5):
+[Waterline-Jamuna2017.gms](Waterline-Jamuna-2017.gms)
+
+Processing of water masks into a waterline DEM with GlobalMapper, using a manual version of the script linked above:
+[Supplementary GlobalMapper Workflow.pdf](Supplementary GlobalMapper Workflow.pdf)
+
+
